@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Fix login bug",
+    "description": "Investigate and resolve the issue where users cannot log in with valid credentials.",
+    "status": "TODO"
+  },
+  {
+    "id": "2",
+    "title": "Update UI for dashboard",
+    "description": "Redesign the dashboard UI to align with the latest brand guidelines.",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "3",
+    "title": "Implement GraphQL API",
+    "description": "Develop the GraphQL API for fetching user tasks and updating task statuses.",
+    "status": "DONE"
+  },
+  {
+    "id": "4",
+    "title": "Write unit tests for task service",
+    "description": "Ensure all business logic in the task service is covered by unit tests.",
+    "status": "TODO"
+  },
+  {
+    "id": "5",
+    "title": "Deploy new backend",
+    "description": "Deploy the updated backend service to the production environment.",
+    "status": "IN_PROGRESS"
+  }
+]
